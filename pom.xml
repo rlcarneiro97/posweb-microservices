@@ -51,6 +51,9 @@
 		<module>zuul</module>
         <module>customers</module>
         <module>products</module>
-    </modules>
+		<module>musica</module>
+		<module>video</module>
+		<module>manga</module>
+	</modules>
 
 </project>
